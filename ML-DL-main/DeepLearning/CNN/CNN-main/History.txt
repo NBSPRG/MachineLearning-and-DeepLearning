@@ -1,0 +1,4 @@
+HIstory of CNN architecture
+
+https://distillery.com/blog/implementing-human-brain-exploring-potential-convolutional-neural-networks/
+https://medium.com/appyhigh-technology-blog/convolutional-neural-networks-a-brief-history-of-their-evolution-ee3405568597
